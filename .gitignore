@@ -3,6 +3,7 @@
 dynamics/php/*config.php
 
 assets/*.pdf
+
 ## docs no está dentro de assets pero creo es así: assets/docs/!*.pdf
 
 *.txt
